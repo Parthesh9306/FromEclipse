@@ -9,6 +9,7 @@ public class RestAPITest {
 	public void postDefect()
 	{
 		System.out.println("Add Defect");
+		//System.out.println("Add defect");
 	}
 	
 	
